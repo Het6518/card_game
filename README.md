@@ -1,0 +1,1 @@
+The files contains some cards on scrolling them the card below the above card comes to the top this is achieved with the help of the z-index feature of the css which helps us to decide the priority that which card will be displayed on the top 
